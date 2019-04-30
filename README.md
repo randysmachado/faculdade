@@ -1,2 +1,2 @@
-# Exercícios da Faculdade
-## Universidade Estadual de Goiás - UEG
+# Exercícios da Faculdade - UEG
+por *Randys Machado*
