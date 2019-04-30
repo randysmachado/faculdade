@@ -1,2 +1,2 @@
-# Exercícios em C 
+# Exercícios da Faculdade
 ## Universidade Estadual de Goiás - UEG
